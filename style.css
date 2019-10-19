@@ -31,7 +31,7 @@ body
 background-image: url('bg.jpg');
 }
 #mp
-{image-width:100px;
+{
 align:center;
 overflow:hidden;
 }
