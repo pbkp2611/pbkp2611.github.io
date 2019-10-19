@@ -31,11 +31,11 @@ body
 background-image: url('bg.jpg');
 }
 #mp
-{
+{image-width:350px;
 align:center;
 overflow:hidden;
 }
-@media all and (min-width:450px){
+@media all and (min-width:550px){
 .tex{
 margin-left:15%;
 margin-right:15%;
