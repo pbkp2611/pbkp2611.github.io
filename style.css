@@ -35,7 +35,7 @@ background-image: url('bg.jpg');
 align:center;
 overflow:hidden;
 }
-@media all and (min-width:550px){
+@media all and (min-width:450px){
 .tex{
 margin-left:15%;
 margin-right:15%;
