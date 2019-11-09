@@ -1,13 +1,15 @@
-#top{
+.top{
 text-align:left;
 font-size:35px;
 color:white;
 background-color: #666666;
-padding:40px;
+}
+.top-text{
+margin-left:30px;
 }
 p,li{
 text-align:justify;
-padding:40px;
+padding:30px;
 }
 a{
 color:white;
