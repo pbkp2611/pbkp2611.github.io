@@ -11,8 +11,8 @@ p,li{
 text-align:justify;
 padding:25px;
 }
-a{
-color:white;
+h2{
+margin-left:20px;
 }
 .butt{
 padding:7px;
@@ -22,12 +22,12 @@ border:2px solid red;
 background-color:red;
 font-size:17px;
 width:100%;
-color:white;
+color:red;
 padding:5px;
 border-radius:5px;
 }
-.tex{
-color:black;
+a:link {
+  background-color: white;
 }
 #mp
 {
@@ -39,7 +39,7 @@ overflow:hidden;
 margin-left:15%;
 margin-right:15%;
 padding:1%;
-background-color:lightgrey;
+//background-color:lightgrey;
 color:black;
 }
 #mp
@@ -55,23 +55,17 @@ background-color: #666666;
 .top-text{
 margin-left:30px;
 }
-.carousel-indicators > li {
-  width:10px;
-  height:10px;
-  border-radius: 50%;
-}
-body
-{
-background-color: lightgrey;
-}
 .butt{
 padding:7px;
 text-align:center;
 border:2px solid black;
 font-size:25px;
-background-color:white;
+background-color:red;
 color:white;
 border-radius:15px;
+}
+.butt a:link {
+  text-color: ;
 }
 p,li{
 text-align:justify;
