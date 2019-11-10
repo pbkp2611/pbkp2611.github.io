@@ -22,6 +22,11 @@ border-radius: 60px 0px 60px 0px;
 background-color:white;
 margin:5%
 }
+.param{
+border-radius: 60px 0px 60px 0px;
+background-color:white;
+margin:5%
+}
 .butt{
 padding:7px;
 text-align:center;
@@ -63,6 +68,11 @@ margin-left:30px;
 border-radius: 60px 0px 60px 0px;
 background-color:white;
 //margin:5%
+}
+.param{
+//border-radius: 60px 0px 60px 0px;
+background-color:white;
+margin:5%
 }
 .butt{
 padding:7px;
