@@ -22,10 +22,10 @@ border-radius: 60px 0px 60px 0px;
 background-color:white;
 margin:5%
 }
-.param{
-border-radius: 60px 0px 60px 0px;
+.param {
+border-radius: 0px 0px 30px 60px;
 background-color:white;
-margin:5%
+margin:0%
 }
 .butt{
 padding:7px;
@@ -48,7 +48,6 @@ overflow:hidden;
 margin-left:10%;
 margin-right:10%;
 padding:1%;
-//background-color:lightgrey;
 color:black;
 }
 #mp
@@ -65,14 +64,14 @@ background-color: #666666;
 margin-left:30px;
 }
 .para{
+clear:left;
 border-radius: 60px 0px 60px 0px;
 background-color:white;
-//margin:5%
-}
-.param{
-//border-radius: 60px 0px 60px 0px;
-background-color:white;
 margin:5%
+}
+.param {
+border-radius: 0px 0px 60px 0px;
+background-color:white;
 }
 .butt{
 padding:7px;
@@ -93,7 +92,8 @@ h2{
 font-weight:bolder;
 }
 .images{
-width:70%;
+width:65%;
 float:left;
+margin-right:2%;
 }
 }
