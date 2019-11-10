@@ -40,8 +40,8 @@ overflow:hidden;
 }
 @media all and (min-width:550px){
 .tex{
-margin-left:15%;
-margin-right:15%;
+margin-left:10%;
+margin-right:10%;
 padding:1%;
 //background-color:lightgrey;
 color:black;
@@ -58,6 +58,11 @@ background-color: #666666;
 }
 .top-text{
 margin-left:30px;
+}
+.para{
+border-radius: 60px 0px 60px 0px;
+background-color:white;
+//margin:5%
 }
 .butt{
 padding:7px;
@@ -76,5 +81,9 @@ text-align:justify;
 }
 h2{
 font-weight:bolder;
+}
+.images{
+width:70%;
+float:left;
 }
 }
